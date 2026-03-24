@@ -1,1 +1,10 @@
+
 Day 1- Linux basics
+
+What I did today : Brushed up with basic linux commands, didnt use it for a long time since months, created folders, files & pushed it to github using the terminal.
+
+What confused me : The only thing that confused me or sort of discomforts me is the github repo push, i need to dig inside a bit more to undertand what actually happens inside whenever we push a repo from the terminal & then we need to create a branch !
+
+What I want to understand better : Ofcourse, being handy & consistent with git repos & learning linux commands & using them daily for more than a year from now on !
+
+
